@@ -1,0 +1,9 @@
+[package]
+name = "first_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+iced_core = "0.12.3"
+iced = "0.12.1"
+time = "0.3.36"
